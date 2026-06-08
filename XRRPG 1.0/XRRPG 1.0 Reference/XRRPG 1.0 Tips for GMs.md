@@ -1,0 +1,3 @@
+# General Tips
+- Have fun with the mechanics, but try to incorporate aesthetic! This system is built in a way where you have a lot of flexibility as to what an attack or ability looks like. Get creative if you feel like it! Most classes are built with bare mechanics in the abilities and some tips on what it all should look and feel like at the start of the class. Add flavor!
+- Let people break the game! Just scale the monsters to be able to compete. Feel free to even tweak monster stats during combat as long as it's in order to make the game feel more satisfying to you *and* your players, not less! Don't fudge rolls in order to beat your players into submission!

@@ -1,0 +1,1 @@
+Click [[xr/Worldbuilding/Lore/The Xenic Plane|here]] for more information about the xenic plane.

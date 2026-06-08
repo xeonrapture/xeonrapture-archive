@@ -1,0 +1,394 @@
+[[Xeon Rapture]]
+
+- may '26
+	- 5/29
+		- yeah i did basically all the worldbuilding, i haven't been updating this very diligently
+		- did a bunch of stuff i dont remember lol
+		- added some intros, hooks to get you into each individual section (like [[XRRPG 2.0 Core Rules#Intro|this one]])
+		- sometime around this date (or probably a bit before) changed Critical Injuries to not give any sort of debuff other than you now have a risk of dying
+	- 5/9
+		- changed spirit decay to go up a level each time you get spirit decay, and even if you've cleansed the effects the next time you just go up to the next level of spirit decay 
+			- [[Spirit Decay]]
+- apr '26
+	- a bunch of stuff i didn't record (sorry, mostly just little edits)
+	- 4/11
+		- fixed some stuff in [[Critical Injuries]]
+			- clarified [[Critical Injuries#Stamina Exhaustion]]
+			- clarified [[Critical Injuries#Stabilizing]]
+- feb '26
+	- 2/24
+		- added copyright information and links to donation
+		- renamed the XRST folder to XR Storytelling
+	- 2/?
+		- implemented [[Webrunning 2.0#Stat Limits|stat limits]] (that go up per level) for a couple webrunning stats:
+			- Max HP
+			- Defense DC
+			- Attack Damage (per attack)
+			- Combo Damage Limit (per attack)
+			- Luck
+		- vibe coded a website for xr tools and webrunning character management
+			- includes a character manager that tracks all webrunning stats and gear
+			- https://app.xeonrapture.com
+- jan '26
+	- 1/14
+		- nerfed armor pretty significantly (you just get less now)
+		- buffed AOE (you can reduce the radius at will now)
+	- 1/10
+		- finished Webrunning 2.0 (mostly)
+			- finished gear actives, passives, consumables, baubles, weapons, etc
+- nov '25
+	- 11/26
+		- lots of webrunning 2.0 changes from the session
+			- changed different stat buffs from + and - to using a cool little star (✦)
+				- [[Gear Generation#Stat Buff Table]]
+			- added ways to upgrade your local shop
+				- [[Gear Generation#Shop Upgrades]]
+				- [[Gear Generation#Upgrading Price Upgrades]]
+				- [[Gear Generation#Reroll Upgrades]]
+				- [[Gear Generation#Condensing Upgrades]]
+				- [[Gear Generation#Aesthetic Modification Node Upgrades]]
+			- now uses energy to:
+				- send items to other people during battle
+				- swap out gear
+				- use consumables
+				- ([[Webrunning 2.0#Other Uses for Energy]])
+	- 11/23
+		- changed [[XRMECHA (Kids in Mechs)]] repairing damage to based on highest stat ([[XRMECHA (Kids in Mechs)#Repairing Damage]])
+		- added [[Webrunning 2.0]]!
+			- pretty much everything changed, from stats to gear to combat
+			- subfiles:
+				- [[Gear Generation]]
+				- [[Baubles]]
+				- [[Kernels]]
+				- [[Consumables]]
+				- [[Gear Actives]]
+	- 11/17
+		- made it so that www.xeonrapture.com sends you to this website!
+		- added [[XRRPG 2.0 Core Rules#Trial of the Spirit|Trials of the Spirit]]
+	- 11/10
+		- split classes up into their own files (sorry...)
+		- changed [[XRMECHA (Kids in Mechs)]]
+			- added rules for Range and Cover
+			- made it so you can only use one attack ability per attack
+			- added Range Pilot Specialization
+	- 11/5
+		- changed [[XRRPG 2.0 Core Rules#Health and Injuries]] so Severe Injuries make you lose a stamina instead of a -4 on your next check
+		- made Stamina count down instead of up (have a pool of Stamina that you subtract from)
+		- did some small edits in a bunch of classes
+		- gave explosives expert and alchemist some tweaks (including basic potions and explosives that you don't run out of)
+- oct '25
+	- 10/8
+		- added [[Spiritualists#Elementalist|Elementalist]] class
+	- 10/7
+		- added [[Spiritualists#Summoner|Summoner]] class
+		- added a page of [[Tips for GMs]]
+		- updated the redmark shop with the new mechanics ([[Redmark Shop Prices]])
+		- updated cybermods with new mechanics ([[Cybermods]])
+	- 10/6
+		- mech rules
+			- initiative is now individual turn-based, not team initiative!
+			- added mech armor!
+		- xrrpg 2.0
+			- buffed brawler, it actually scales with level now loll
+			- made Stamina Exhaustion a Critical Injury that you can't die from but will probably make you unconscious
+			- modified obsidian a little bit (nullified by onyx but does +1 dmg to everything else)
+			- changed concentration (added max concentration time and added an addendum that messing up or taking damage might break your concentration)
+			- made the tech and spirit skill bonuses scale with Character Level
+	- 10/3
+		- modified sorcerer pretty significantly ([[Mages]])
+	- 10/2
+		- finished first version of Enchanter and Alchemist ([[Magicians]])
+		- finished first version of Mystic ([[Spiritualists]])
+	- 10/1
+		- did a ton of work on the classes for xrrpg 1.0
+			- [[Adepts]]
+			- [[Mages]]
+			- [[Technologists]]
+			- [[Magicians]]
+- sept '25
+	- 9/29
+		- made xrrpg 2.0 core rules and resources such as [[Quick Start Guide]] 
+		- migrated a bunch of rules from 1.0 to 2.0
+	- 9/26
+		- changed the [[XRRPG 2.0 TEST GUIDE]] quite a bit!
+			- added Suicidal Risk to the risk list
+			- formatted the Risk list so now it's better
+			- proficiency die is now called mastery die
+	- 9/24
+		- moved xrrpg stuff into the xrrpg 1.0 folder (sorry for breaking all of your bookmarks)
+		- added the [[XRRPG 2.0 TEST GUIDE]]!
+- july '25
+	- 7/10
+		- took out public domain images
+	- 7/8
+		- added node routes to webrunning
+	- 7/7
+		- modified swordmaster quite a bit, tweaked how ranged powerful attacks work and added Sword Modifiers, just buffed them in general
+		- made uranium gun have to be a sniper rifle (cuz it's so powerful there's gotta be some catch, right?)
+		- nerfed top-tier dmg across the board (no 3d8 dmg unless it's a single-target attack)
+	- 7/6
+		- buffed damage for warrior a tiny bit
+		- buffed damage for swordmaster
+		- added uranium gun for gunslinger
+		- added additional class levels for adepts, magicians
+	- 7/5
+		- reorganized everything!
+			- XRRPG folder holds XRRPG rules and resources
+			- Lore folder is for XR lore
+			- World folder holds info about the world itself
+			- Campaign Resources is for info that's for specific campaigns that I'm running
+			- About is meta info about me and the XR project
+			- XRST (Xeon Rapture Storytelling) is for resources to help anybody who wants to write stories in the Xeon Rapture Universe
+		- also just did small tweaks all throughout the XRRPG stuff
+		- added Spirit Anchors!!
+- june '25
+	- 6/28
+		- added move speed to mechs
+	- 6/26
+		- some little tweaks
+		- expanded and edited [[Demititan]]
+	- 6/12
+		- Coiffed Core Rules a bit
+		- [[Cleric|Clerics]] can now pray to their gods lol
+	- 6/10
+		- more [[Quick Start Guide]] and [[XRRPG Character Creation Template]] changes
+		- polished the Quick Start Guide
+		- lowered [[Leveling Up#Stamina Leveling|Exhaustion Limit]]
+	- 6/9
+		- buffed [[Tank (Blue Adept)]]
+		- buffed [[Druid (Green Adept)]]
+		- made the [[Quick Start Guide]]
+		- clarified and reorganized the [[XRRPG 1.0 Core Rules]]
+	- 6/7
+		- "Remember that stamina given to you by any source cannot be given to any target! This also applies to stamina generated from given stamina." [[XRRPG 1.0 Core Rules]]
+		- buffed [[Cleric]] skill Bolster
+	- 6/2
+		- buffed and reworked [[Gunslinger]] pretty extensively
+		- made it so that dark mode is all sci-fi and light mode is all fantasy!! incredible
+- may '25
+	- 5/29
+		- changed grey to gray
+		- buffed [[Gunslinger]], they can now change guns without spending stamina and they get another gun level I
+	- 5/26
+		- [[Redmark Mech Parts]] finished!
+		- nerfed swordmaster a tiny bit (Block Sword)
+	- 5/25
+		- tuned up [[XRRPG 1.0 Overview]] and [[Xeon Rapture Universe Overview]]
+		- kaldi don't have horns anymore!
+		- Mech module and upgrade slots go up as you get Pilot Upgrades!
+	- 5/13
+		- split mech parts into different sections!
+- apr '25
+	- 4/30
+		- changed defense rolls into Stat Defense DCs! kinda like AC except you can still use whatever stat you want to defend. modifies the following files:
+			- [[XRRPG 1.0 Core Rules]]
+			- [[XRMECHA (Kids in Mechs)]]
+			- [[Spaceship Rules]]
+			- basically all the classes
+			- everywhere else defense rolls were mentioned
+		- i realized that 2d10 advantage only gives a +2.3! that's not enough lol so I adjusted a lot of things
+		- split spaceship and vehicle rules into [[Spaceship Rules]] and [[Vehicle Rules]], put Spaceship Rules back to d100 rolls and made Vehicle Rules all 2d10 checks
+	- 4/28
+		- tweaked [[Spaceship Rules]]
+			- you now add your character stats to vehicle checks
+			- you can now use ship energy to do Crew Actions as individuals! you just use the ship energy as stamina
+		- made it so you can use the Sense Up spell from [[Physic]] to nullify the senses of a willing person
+		- put [[Duel Rules]] into its own document, tweaked the language and rules, and added a [[Duel Rules#Group Duels]] section
+		- added a [[XRRPG 1.0 Core Rules#Optional Rule Modules]] section to basic rules
+		- moved rule modules into rules -> modules instead of rule reference
+		- added [[Reputation and Relationship Rules]] into the Modules folder
+		- added [[XRMECHA (Kids in Mechs)#Upgrades]] and [[XRMECHA (Kids in Mechs)#Pilot Level and Pilot Specializations]]!!!
+	- 4/27
+		- tweaked [[Spaceship Rules]] a bit
+		- tweaked [[Drug Rules]] (4 Weeks Dependent)
+		- added [[XRRPG 1.0 Core Rules#Duel Rules]] courtesy of Dave
+	- 4/12
+		- created [[Dark Tarot]], often integrated with the Abaian Tarot to make things spicier
+	- 4/9
+		- **tons** of tweaks and readability changes for the following pages
+			- [[XRRPG 1.0 Core Rules]]
+			- [[XRMECHA (Kids in Mechs)]]
+			- [[Spaceship Rules]]
+			- [[Gaining New Skills and Decaying DRs]]
+			- [[The Stress Meter]]
+			- [[Xeon Rapture Universe Overview]]
+			- [[XRRPG 1.0 Overview]]
+			- [[Leveling Up]]
+	- 4/7
+		- adepts
+			- YOU CAN NOW GET MORE POWERS AFTER LEVEL SIX FOR ALL ADEPTS!!
+		- basic rules
+			- you can have multiple chromas!
+			- added more species
+		- drug rules
+			- softened withdrawal rules significantly
+			- added fancy new GRAPHICS for the drug rules
+		- other
+			- moved documents around quite a bit
+			- cleaned up critical injuries
+			- some small [[Warlock]] edits
+	- 4/2
+		- made the big cannon module at the bottom of [[Kollopsis Mech Parts]] do more damage
+- mar '25
+	- 3/31
+		- changed swordmaster health die to d8
+		- added handy class chart
+	- 3/24
+		- added states and attack types to the [[XRRPG 1.0 Core Rules]]
+		- added an example to [[XRRPG 1.0 Core Rules#Fighting Elite Enemies and Party Tier]]
+- feb '25
+	- 2/21
+		- buffed [[Sorcerer]] like crazy
+		- added other classes to [[XRRPG 1.0 Core Rules]]
+		- added helpful notes to [[XRRPG Character Creation Template]]
+		- changed it from "single-target dmg" to "melee dmg" in like 26 docs cuz that makes way more sense
+	- 2/10
+		- added [[Coordinate Systems]]
+	- 2/2
+		- added [[Hikari Lore Drop II]]!
+		- added a news part to [[Ship Message Inbox]]
+- jan '25
+	- 1/29
+		- added [[Bard]]!
+	- 1/28
+		- [[XRRPG 1.0 Core Rules]] and [[Leveling Up]]
+			- added [[XRRPG 1.0 Core Rules#Fighting Elite Enemies and Party Tier]]
+				- gives you disadvantages when fighting certain enemies (Elites) and adds rules to overcoming these disadvantages
+		- added [[Demititan]]!
+		- changed [[Physic]], added some effects (dmg and frozen effect), clarified some stuff
+	- 1/27
+		- [[XRRPG 1.0 Core Rules]]
+			- made it easier to read the defense check chart
+			- changed the name of Pushing Past Your Stamina Limits to Supercharging
+	- 1/11
+		- switched around a lot of Technologist powers!
+			- buffed [[Explosives Expert]], gave them more damage abilities
+			- changed all the Heat and Cold abilities to actually do the typical Heat and Cold effects
+		- little [[Spaceship Rules]] clarification
+	- 1/8
+		- more new classes!
+			- [[Cleric]]
+			- [[Warlock]]
+		- *sigh*...GUNSWORD
+			- [[_Technologists]]
+	- 1/5
+		- added new classes!
+			- [[Sorcerer]]
+			- [[Physic]]
+			- [[Possessor]]
+- dec '24
+	- 12/9
+		- it costs 1 AE (Warp Energy) to move 1,000 light years! [[Spaceship Rules]]
+		- added AE chargers and batteries in [[Kollopsis Shop Prices]]
+	- 12/7
+		- added the tarot lists
+			- [[Abaian Tarot]]
+			- [[Eosian Tarot]]
+- nov '24
+  - 11/29
+    - defense advantages and disadvantages were changed!
+    - you don't add the Proficiency Die to defense checks anymore!!
+  - 11/21
+    - pushing a roll doesn't incur wear anymore, it incurs Spirit Decay [[XRRPG 1.0 Core Rules]]
+  - 11/14
+    - you take wear if you stay up too long
+  - 11/12
+    - cold drone now can fire more than once per turn
+    - advanced shields now don't take energy at all
+    - [[Spaceship Rules]]
+      - changed amethyst energy cost to 1 credit per AE
+      - added amethyst energy charging rate
+      - added details for water and food usage rates
+    - added pet food and water consumption rates [[Spaceship Details]]
+- oct '24
+  - 10/4
+    - added docking rules to [[Spaceship Rules]]
+    - added a ton of rules for out of mech (xrrpg)
+      - [[XRRPG 1.0 Core Rules]]
+      - [[Leveling Up]]
+    - added classes
+      - [[_Adepts]]
+      - [[_Technologists]]
+    - added a ton of reference for the new rules (also drugs)
+      - [[Critical Injuries]]
+      - [[Drug Rules]]
+      - [[Gaining New Skills and Decaying DRs]]
+      - [[Spirit Decay]]
+  - 10/7
+    - [[XRRPG 1.0 Core Rules]]
+      - only 2 large weapons on your person, and 5 weapons total
+      - class descriptions for adepts at the
+    - [[XRMECHA (Kids in Mechs)]]
+      - mechs gain energy at the end of their turn
+    - Mech part lists
+      - Viper Hacking Module prevents energy regain for that turn
+    - split [[_Technologists]] into five classes
+      - [[Brawler]]
+      - [[Emitter Specialist]]
+      - [[Explosives Expert]]
+      - [[Dronemaster]]
+      - [[Gunslinger]]
+  - 10/8
+    - Split brawler into two classes!
+      - [[Brawler]]: you get a full suit and a lot of abilities!
+      - [[Swordmaster]]: you make swords and do a _ton_ of damage!
+    - The Frozen debuff now makes the next attack do additional dice of damage equal to the stamina you spend
+  - 10/9
+    - Fixed some typos in the [[Mentalist (Gray Adept)]] basic powers
+    - Clarified some things in [[Drug Rules]]
+    - Added info on [[Gaining New Skills and Decaying DRs|Decaying DRs]] with unknown caps
+  - 10/10
+    - clarified [[_Technologists]] and the Viper Hacking Module in [[Kollopsis Mech Parts]]
+    - changed Proficiency Die scaling in [[Leveling Up]]
+    - added [[Kollopsis IV Map]]
+  - 10/15
+    - changed a few small things in [[Drug Rules]]
+      - added prices
+      - got rid of levels 6-10 for soft drug debuffs
+    - added [[Calendar]]
+  - 10/26
+    - added stealth module in [[Webrunning]]
+    - added defense weaknesses and strengths in [[XRRPG 1.0 Core Rules]]
+    - added detail to Lakomo Suite and clarified Neural Augment in [[Kollopsis Cybermods]]
+  - 10/28
+    - modified [[Drug Rules]] a little bit
+- sept '24
+  - 9/1
+    - made it so your character can only say a sentence per turn during combat (and try to limit metagaming)
+  - 9/2
+    - added Comet Barkell to the Character Notes
+    - added:
+      - [[Icy Speck Jobs]]
+      - [[Icy Speck Shop Prices]]
+      - [[Icy Speck Mech Parts]]
+  - 9/13
+    - gave everyone jobs in the [[Character Notes]] sheet
+  - 9/15
+    - repairing damage and fixing a totaled mech details added to [[XRMECHA (Kids in Mechs)]]
+    - mech part buy-back deets added to [[Icy Speck Mech Parts]]
+  - 9/16
+    - you only have half of your max energy stored up outside of combat! but your max opens up to full as you enter "combat mode" [[XRMECHA (Kids in Mechs)]]
+  - 9/17
+    - adding shallow and deep rests [[XRRPG 1.0 Core Rules#Resting]]
+  - 9/19
+    - made it so it's 10 scraps per 1 HP of repairs
+  - 9/20
+    - added a very chill load limit [[XRRPG 1.0 Core Rules#Load Limit]]
+  - 9/21
+    - added kotharak field simple map [[Kotharak Field Map]]
+  - 9/24
+    - changed some doc names
+    - added spaceship rules and stats and details for your spaceship!
+      - [[Spaceship Rules]]
+      - [[Spaceship Details]]
+  - 9/25
+    - added Wasabi
+- aug '24
+  - 8/28
+    - added Valdan and Ydilikian humans [[XRRPG 1.0 Core Rules]]
+  - 8/29
+    - split rules into two parts:
+      - [[XRMECHA (Kids in Mechs)]]
+      - [[XRRPG 1.0 Core Rules]]
+    - added Status Effects and Switching Weapons rules to [[XRMECHA (Kids in Mechs)]]
+    - created this changelog! wow

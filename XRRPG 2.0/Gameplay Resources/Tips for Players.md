@@ -1,0 +1,9 @@
+- **Push the limits of the game.** Think outside of the box, propose moves that you think might not fly, be daring. The GM should reward you for interesting play, even if it means you're operating a bit out of the limits of your powers or otherwise bending the rules.
+- **Don't be scared of hurting your character.** If it creates a cool moment or an interesting bit of storytelling feel free to have your character do something unwise, take disadvantage on a roll for an action your character isn't comfortable with, or propose a negative consequence for your character! These complications, this friction is what makes stories interesting and provides your characters chances to grow, learn, and overcome.
+- **Collaborate with the GM in the narrative and worldbuilding.** Steering the narrative and fleshing out the world is the GM's main role, but if you have a cool idea or even a funny scenario in mind feel free to say it! The GM should be open to whatever ideas will make the game fun, and they should try to include you in the worldbuilding as well. Just try not to take ahold of the narrative or modify the worldbuilding *in conflict* with the GM; it is the GM's job, after all.
+- **Advocate for yourself.** If you have a specific vision for your character and their journey, tell the GM! They will almost always be more than happy to cater parts of the story to you and your character. Also, if something happens that makes you feel uncomfortable or if there is inter-player conflict that is making the experience less fun, speak up! Try not to escalate things but everybody should feel safe and have fun during your games together.
+- **Loosen up!** The GM will throw things at you that you don't expect, as will the other players in your party. Have fun with it! Don't get too attached to one outcome, and let your character shift with the story if that direction feels best.
+
+---
+
+![[Footer]]
