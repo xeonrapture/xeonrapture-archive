@@ -1,5 +1,10 @@
 [[Xeon Rapture]]
 
+If you wanna see *all* the change details (starting from June 8, 2026 (sorry I got started so late)), go [here](https://github.com/xeonrapture/xeonrapture-archive). 
+
+- june '26
+	- 6/8
+		- added [github archiving](https://github.com/xeonrapture/xeonrapture-archive/commit/ca2a335a32a12172eb3f5ca6dff23f1f289ef6ab)
 - may '26
 	- 5/29
 		- yeah i did basically all the worldbuilding, i haven't been updating this very diligently
